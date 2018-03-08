@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../PayementFramework/PayementFramework/PayementManager.swift"
+            timestampString = "542207156.097072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "proceedToCheckout(items:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayementFramework.PayementManager.proceedToCheckout(items: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completion: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "PayementFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobiletechpeople/Documents/Documents%20-%20MacBook%20Pro%20de%20Mobile/Perso/PayementFramework/PayementFramework/PayementManager.swift"
+                  timestampString = "542207156.25732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "462">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; () in PayementFramework.PayementManager.proceedToCheckout(items: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completion: (Swift.Error) -&gt; ()) -&gt; ()"
+                  moduleName = "PayementFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobiletechpeople/Documents/Documents%20-%20MacBook%20Pro%20de%20Mobile/Perso/PayementFramework/PayementFramework/PayementManager.swift"
+                  timestampString = "542207156.260651"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RMDelegateWithCompletion/CardDetaildViewController.swift"
+            timestampString = "542207156.097152"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "validate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
